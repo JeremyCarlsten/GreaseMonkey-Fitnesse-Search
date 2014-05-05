@@ -1,4 +1,4 @@
-Fitnesse Search
+GreaseMonkey Fitnesse Search
 ===
 
-Moving the title search of fitnesse to the front page. 
+A GreaseMonkey script for moving the title search of fitnesse to the front page. 
